@@ -1,0 +1,25 @@
+body {
+    background-color: #589ED9;
+    font-family: 'Open Sans', sans-serif;
+}
+#container{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 300px;
+    text-align: center;
+}
+#header .logo .fa-weibo{
+    font-size: 50px;
+    color: white;
+}
+#header h1{
+    font-size: 32px;
+    color: white;
+}
+#loginform .containerfields {
+    color: white;
+}
+#loginform .containerfields input[type="email"]
+#loginform .containerfields input[type="password"]{
+    width: 100%;
+}
